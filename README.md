@@ -1,0 +1,2 @@
+# webStorageAssignment
+local storage
